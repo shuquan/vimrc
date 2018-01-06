@@ -16,7 +16,7 @@ I would, of course, recommend using the awesome version.
 
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following from your terminal:
 
-    git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+    git clone --depth=1 https://github.com/shuquan/vimrc.git ~/.vim_runtime
     sh ~/.vim_runtime/install_awesome_vimrc.sh
 
 
@@ -36,7 +36,7 @@ The basic version is just one file and no plugins. Just copy [basic.vim](https:/
 
 The basic version is useful to install on remote servers where you don't need many plugins, and you don't do many edits.
 
-	git clone --depth=1 git://github.com/amix/vimrc.git ~/.vim_runtime
+	git clone --depth=1 git://github.com/shuquan/vimrc.git ~/.vim_runtime
 	sh ~/.vim_runtime/install_basic_vimrc.sh
 
 
